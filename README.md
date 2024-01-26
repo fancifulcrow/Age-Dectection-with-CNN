@@ -28,7 +28,7 @@ streamlit run main.py
 This will open the app in your default web browser. From here you can upload the images you want to use for prediction.
 
 ## Model Results
-This age detection model has a validation accuracy of around 65% with a loss of 0.81. This means that there is still need for improvements. Overall though, the model is good as a learning example.
+This age detection model has a validation accuracy of around 65% with a loss of 0.81. This means that there is still need for improvements. Still, overall, the model is good as a learning example.
 
 
  
